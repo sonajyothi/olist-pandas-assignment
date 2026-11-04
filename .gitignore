@@ -2,3 +2,6 @@
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+# Assignment 5 datasets and generated output
+Assignment 5/data/
+Assignment 5/starter/output/

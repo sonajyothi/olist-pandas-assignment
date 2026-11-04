@@ -1,0 +1,8 @@
+output/
+data/
+.venv/
+__pycache__/
+spark-warehouse/
+# Assignment 5 generated files and datasets
+Assignment 5/data/
+Assignment 5/starter/output/
